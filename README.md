@@ -19,9 +19,10 @@ An intro for the team on ES6
 14. Generators
 
 ## Aditional information
-1. Numbers & Math - whats new!
-2. Regex, Strings, Unicode
-3. Default parameters (finally!)
-4. Proxies & Reflect
-5. Symbols
-6. ES7 - yes more is coming!
+1. Computed property names
+2. Default parameters (finally!)
+3. Regex, Strings, Unicode
+4. Numbers & Math - whats new!
+5. Proxies & Reflect
+6. Symbols
+7. ES7 - yes more is coming!
